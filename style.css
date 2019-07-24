@@ -5,13 +5,14 @@ body {
 
 h1,h2 {
 	font-family: Georgia;
+	font-size: 20px;
 }
 
 h1 {
 	border-bottom: 3px solid #aaa;
 	background-color: #3b3b3b;
-	color: #ddd;
-	padding: 5px;	
+	color: #ffffff;
+	padding: 10px;	
 }
 
 h2 {
