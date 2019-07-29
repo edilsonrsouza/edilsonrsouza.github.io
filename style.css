@@ -5,14 +5,16 @@ body {
 
 h1,h2 {
 	font-family: Georgia;
-	font-size: 20px;
+	font-size: 25px;
+	text-shadow: 1px 1px 5px #7ec4ec;
 }
 
 h1 {
 	border-bottom: 3px solid #aaa;
 	background-color: #3b3b3b;
 	color: #ffffff;
-	padding: 10px;	
+	padding: 10px;
+
 }
 
 h2 {
@@ -78,7 +80,9 @@ a:hover {
 
 .photo {
 	float: right;
+	padding: 3px;
 	margin-right: 20%;
+	border: 2px solid #dbdbdb;
 }
 
 #footnote {
